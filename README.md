@@ -63,10 +63,3 @@ Contributions are welcome! If you'd like to contribute to the Task Management Ap
 
 Please ensure that your code follows the established coding standards and includes appropriate documentation.
 
-## 📄 License
-
-The Task Management App is open source and released under the [MIT License](https://github.com/KaranChandekar/task-management-app/blob/main/LICENSE).
-
-## 📧 Contact
-
-For any questions, suggestions, or feedback, feel free to reach out to me at karanchandekar431@gmail.com. I'd love to hear from you!
